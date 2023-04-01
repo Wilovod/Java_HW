@@ -1,0 +1,20 @@
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 63, 87, 39, 89, 44, 80, 99, 88, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 87, 63, 89, 44, 80, 99, 88, 39, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 87, 89, 63, 80, 99, 88, 44, 39, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 89, 87, 80, 99, 88, 63, 44, 39, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 89, 87, 99, 88, 80, 63, 44, 39, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 89, 99, 88, 87, 80, 63, 44, 39, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 99, 89, 88, 87, 80, 63, 44, 39, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 99, 89, 88, 87, 80, 63, 44, 39, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 99, 89, 88, 87, 80, 63, 44, 39, 39]
+апр. 01, 2023 10:43:52 PM HW_2.task.Task_1 bubbleSort
+INFO: [99, 99, 89, 88, 87, 80, 63, 44, 39, 39]
